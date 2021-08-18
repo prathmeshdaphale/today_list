@@ -1,0 +1,12 @@
+html{
+  background-color: rgb(78, 160, 133);
+
+}
+.container-fluid{
+  background-color: rgb(78, 160, 133);
+}
+input[ type='text']:focus{background-color: transparent;}
+
+input[ type='text']:focus{background-color: transparent;
+color: cornsilk;}
+
